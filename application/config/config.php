@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'localhost';//'https://crud-app-ci.herokuapp.com/';
+$config['base_url'] = 'https://crud-ci-heroku.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
